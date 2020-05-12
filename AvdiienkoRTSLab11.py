@@ -24,6 +24,7 @@ def signal(t, w, ampl, phi):
 
 
 if __name__ == '__main__':
+    variant = 7101
     Ω = 1200                            # cutoff frequency
     n = 6                               # number of sine waves
     N = 64                              # number of discrete marks
